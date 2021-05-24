@@ -1,0 +1,10 @@
+﻿<StaticWebAssets Version="1.0" />
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings>
+   <add
+     name="SQLServerConnectionString"
+     connectionString= "server=product1.database.windows.net;database=product1;uid=PARK;#si8320hu#"
+     providerName="System.Data.SqlClient" />
+  </connectionStrings>
+</configuration>
